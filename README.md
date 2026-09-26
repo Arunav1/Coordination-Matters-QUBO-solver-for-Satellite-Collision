@@ -196,7 +196,7 @@ If you use the code or the benchmark instances, please cite:
 
 ```bibtex
 @misc{arunabha2026coordination,
-  author = {Arunabha [Surname] and Jana, Angshuman},
+  author = {Arunabha Dutta and Kaveri Roy},
   title  = {Coordination Matters: A Real-Data {QUBO} Benchmark for Multi-Satellite
             Collision-Avoidance Maneuver Selection with Constraint-Preserving
             Classical and Quantum Solvers},
