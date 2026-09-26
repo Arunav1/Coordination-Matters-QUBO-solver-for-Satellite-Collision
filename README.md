@@ -3,7 +3,7 @@
 Code, data and benchmark instances for the paper
 
 > **Coordination Matters: A Real-Data QUBO Benchmark for Multi-Satellite Collision-Avoidance Maneuver Selection with Constraint-Preserving Classical and Quantum Solvers**
-> Arunabha *[Surname]*, Angshuman Jana — Indian Institute of Information Technology Guwahati
+> Arunabha Dutta, Kaveri Roy — Indian Institute of Information Technology Guwahati
 
 When several maneuverable satellites share conjunctions, their avoidance decisions are coupled: if both dodge the same way the danger remains, and a satellite that dodges one neighbour can drift into another. This repository builds a validated pipeline from the public satellite catalogue to **quadratic unconstrained binary optimization (QUBO)** problems for *joint* maneuver selection, solves every instance exactly, and benchmarks operator-style greedy planning, classical annealers and QAOA against the exact optima.
 
@@ -207,7 +207,7 @@ If you use the code or the benchmark instances, please cite:
 
 ## License
 
-Code: *[choose a license, e.g. MIT]*. Derived data files are provided for research reproducibility; the underlying orbital data remain subject to CelesTrak's terms.
+Code:Derived data files are provided for research reproducibility; the underlying orbital data remain subject to CelesTrak's terms.
 
 ## Contact
 
